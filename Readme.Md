@@ -76,9 +76,4 @@ This will stop the specified EC2 instances.
 
 The script includes basic error handling for issues like invalid instance IDs or network problems. Error messages will be displayed if any issues occur during the execution.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
 
